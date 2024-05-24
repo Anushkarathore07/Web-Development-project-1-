@@ -1,0 +1,35 @@
+# Expanding Cards Project
+
+![Expanding Cards](path_to_your_image)
+
+## Introduction
+
+The Expanding Cards project is a visually engaging and interactive component for web applications, designed to enhance user experience through dynamic content display. When a user clicks on a card, it expands smoothly, revealing more information.
+
+## Features
+
+- Smooth and responsive animations
+- Click-to-expand functionality
+- Easy to customize and integrate into existing projects
+- Mobile-friendly design
+- Lightweight and performant
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript (or mention any specific libraries/frameworks used)
+
+## Installation
+
+To set up this project locally, follow these steps:
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/Anushkarathore07/Project---1.git
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Usage
+Open index.html in a web browser to see the expanding cards in action.
+Click on any card to expand it and reveal more information.
+Click on the expanded card to collapse it back to its original state.
